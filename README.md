@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte de uma missão prática para criar um a
 
 ## 📂 Estrutura de Arquivos
 
-```plaintext
+```bash
 📁 posso-criar-um-app-de-outra-forma/
 ├── 📁 images/
 │   └── lake.jpg             # Imagem utilizada no app
