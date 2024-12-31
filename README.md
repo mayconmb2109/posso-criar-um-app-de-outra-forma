@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte de uma missão prática para criar um a
 │   └── main.dart            # Código principal do aplicativo
 ├── pubspec.yaml             # Arquivo de configuração do Flutter
 └── README.md                # Documentação do projeto
-
+```
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -58,11 +58,11 @@ Este projeto foi desenvolvido como parte de uma missão prática para criar um a
 
 ```bash
 flutter pub get
-
+```
 ### Inicie o aplicativo:
 ```bash
 flutter run
-
+```
 ## 🛠️ Ferramentas Utilizadas
 
 - **Flutter**: Framework para desenvolvimento de aplicativos multiplataforma.
